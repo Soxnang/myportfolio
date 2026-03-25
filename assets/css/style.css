@@ -1,0 +1,39 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  background: #0a0a0f;
+  color: #e2e8f0;
+  line-height: 1.6;
+}
+
+header {
+  border-bottom: 2px solid #22c55e;
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
+}
+
+h1 { font-size: 2rem; color: #22c55e; }
+.subtitle { color: #94a3b8; margin-top: 0.5rem; }
+h2 { color: #22c55e; margin-bottom: 1rem; }
+
+section {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  border: 1px solid #1e293b;
+  border-radius: 8px;
+}
+
+ul { padding-left: 1.5rem; }
+li { margin-bottom: 0.5rem; }
+
+footer {
+  text-align: center;
+  color: #475569;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #1e293b;
+}
